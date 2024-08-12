@@ -52,6 +52,6 @@ To run this project locally, follow these steps:
 - Stars will form the background, giving a space-like atmosphere.
 
 ## Acknowledgement
-- Three.js for providing the tools to create stunning 3D graphics in the browser.
+- [Three.js](https://threejs.org/) for providing the tools to create stunning 3D graphics in the browser.
 - All texture images are sourced from free resources or created for this project.
 
