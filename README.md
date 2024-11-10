@@ -9,6 +9,13 @@ This project showcases a realistic 3D model of Earth using the Three.js library.
 - Starry background
 - Responsive design that fits any screen size
 
+## Screenshots
+
+### Main Page
+![Main Page](image.png)
+
+---
+
 ## Technologies Used
 
 - [Three.js](https://threejs.org/) - A JavaScript library for creating 3D graphics in the browser
